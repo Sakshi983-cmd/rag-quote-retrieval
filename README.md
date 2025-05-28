@@ -1,6 +1,6 @@
 # rag-quote-retrieval
 # 🧠 RAG-Based Quote Retrieval App
-
+#APP LINK- https://rag-quote-retrieval-o2dqmiky6wprndsvbgxven.streamlit.app/
 This project is a semantic quote finder using Retrieval-Augmented Generation (RAG) with the `Abirate/english_quotes` dataset.
 
 ## ✨ Features
