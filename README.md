@@ -16,3 +16,4 @@ This project is a semantic quote finder using Retrieval-Augmented Generation (RA
 ```bash
 pip install -r requirements.txt
 streamlit run rag_quotes_app.py
+## VIDEO - https://screenapp.io/app/#/shared/l6g0UzwCvk
